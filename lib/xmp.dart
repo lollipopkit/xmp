@@ -1,3 +1,4 @@
+/// A library for extracting XMP data.
 library xmp;
 
 /// imports
